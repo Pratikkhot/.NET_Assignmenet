@@ -6,7 +6,7 @@ namespace Assignment_20
     public class Employee : Person
     {
         private static int autogen = 1;
-        private int id;
+        private int  id;
         private double salary;
         private string designation;
         public enum DepartmentType
