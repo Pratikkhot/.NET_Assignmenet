@@ -11,6 +11,7 @@ namespace Ques11
             emp.acceptData();
             emp.printData();
             Console.WriteLine(emp);
+
         }
     }
 
