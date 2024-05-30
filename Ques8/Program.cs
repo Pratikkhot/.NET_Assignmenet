@@ -10,6 +10,7 @@ namespace Ques8
             Employee employee = new Employee();
             employee.acceptData();
             Console.WriteLine(employee);
+
         }
     }
 
