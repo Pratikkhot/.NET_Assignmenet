@@ -20,7 +20,7 @@ namespace Assignment_18
 
         public static int InvokeSum(int a, int b)
         {
-            return Sum?.Invoke(a, b) ?? 0;
+            return Sum?.Invoke(a, b) ?? 0; 
         }
 
         public static int InvokeSubtract(int a, int b)
